@@ -1,0 +1,22 @@
+.logo{
+    text-align: center;
+}
+.logo img{
+    height: 80px;
+}
+.nav{
+    line-height: 40px;
+    background: #000;
+}
+.nav a{
+    text-decoration: none;
+    padding: 5px;
+    color: #fff;
+    margin-left: 20px;
+    transition: 0.2s;
+}
+.nav a:hover{
+    background: #cac7c7;
+    border-radius: 5px;
+    border-bottom: 2px solid gold;
+}

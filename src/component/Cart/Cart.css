@@ -1,0 +1,10 @@
+span{
+    font-weight: bold;
+}
+button{
+    background: gold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #bbb9b9;
+    cursor: pointer;
+}

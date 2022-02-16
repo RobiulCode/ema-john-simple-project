@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+}
+.info-area{
+    padding-left: 10px;
+}
+.info{
+    display: flex;
+}
+.info-2{
+    width: 50%;
+}
+.info-2 button{
+    background: gold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #bbb9b9;
+    cursor: pointer;
+}
+span{
+    font-weight: bold;
+}
